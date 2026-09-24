@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project investigates whether NFL Week 1 is unusually unpredictable compared with the rest of the regular season. This is a work in progress.
-
-The analysis examines NFL games from 2006–2025 and uses betting data and team performance statistics to investigate whether Week 1 is more upset-heavy, whether Week 1 games differ statistically from later games, and whether Week 1 team performance persists throughout the season.
+This project investigates whether NFL Week 1 is unusually unpredictable when compared with the rest of the regular season. This is a work in progress.
 
 ## Research Questions
 
@@ -54,17 +52,6 @@ Week 1 team performance showed statistically significant correlations with perfo
 Production measures such as passing yards, offensive points, and rushing yards showed stronger persistence than several efficiency-based measures.
 
 ## Project Structure
-
-```text
-Is_NFL_Week1_Chaotic/
-├── data/
-├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_upset_analysis.ipynb
-│   └── 03_statistical_analysis.ipynb
-├── README.md
-└── ...
-```
 
 The notebooks are organized as follows:
 
